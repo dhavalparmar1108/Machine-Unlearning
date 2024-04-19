@@ -1,4 +1,6 @@
-The following gdrive links have the finetuned BERT-base-uncased fine-tuned models Ad,An,Af and Ar on datasets D, Dn, Df an Ar
+#The kga_unlearner_test is a work in progress, the kga algorithm for this 
+#specific task is not implemented successfully, The following gdrive links have the finetuned 
+#BERT-base-uncased fine-tuned models Ad,An,Af and Ar on datasets D, Dn, Df an Ar
 
 https://drive.google.com/drive/folders/1IZF25XqnKFymLMbpXKp9kVKHVz-aaalS?usp=drive_link
 
